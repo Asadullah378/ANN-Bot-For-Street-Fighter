@@ -12,7 +12,6 @@ This repository contains a neural network-powered bot for playing the classic **
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [File Descriptions](#file-descriptions)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -102,12 +101,6 @@ Ensure you have the following installed:
 - `GameData.csv`: Example dataset for training the model.
 - `scaler.save`: Saved scaler for normalizing inputs during gameplay.
 - `BotModel.h5`: Trained model file for predictions.
-
----
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for review. For significant changes, create an issue to discuss your proposed enhancements.
 
 ---
 
